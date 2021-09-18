@@ -1,2 +1,2 @@
 print("Hello world")
-print("myfirstapp")
+print("myfirstapp v1.0.2")
